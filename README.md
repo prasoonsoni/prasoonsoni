@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **prasoon.soni2020@vitstudent.ac.in**
 
-- ⚡ Fun fact **I love playing Badminton, dance and Listening to Music.**
+- ⚡ Fun fact **I love playing Badminton, Dance and Listening to Music.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
