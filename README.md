@@ -2,17 +2,11 @@
 <h3 align="center">A passionate Android App Developer from India.</h3>
 
 - 🔭 I’m currently working on **New Projects.**
-
 - 🌱 I’m currently learning **Android App Development and Frontend Web Development.**
-
 - 👯 I’m looking to collaborate on **New Ideas.**
-
 - 👨‍💻 All of my projects are available  [Here.](https://github.com/PrasoonSoni)
-
 - 💬 Ask me anything about **my domain, Happy to help.**
-
-- 📫 How to reach me **prasoon.soni2020@vitstudent.ac.in**
-
+- 📫 How to reach me:  **prasoon.soni2020@vitstudent.ac.in**
 - ⚡ Fun fact **I love playing Badminton, Dance and Listening to Music.**
 
 <h3 align="left">Connect with me:</h3>
