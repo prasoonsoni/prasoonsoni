@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on **New Ideas.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/PrasoonSoni](https://github.com/PrasoonSoni)
+- 👨‍💻 All of my projects are available  [Here.](https://github.com/PrasoonSoni)
 
-- 💬 Ask me about **my domain, Happy to help.**
+- 💬 Ask me anything about **my domain, Happy to help.**
 
 - 📫 How to reach me **prasoon.soni2020@vitstudent.ac.in**
 
@@ -22,6 +22,8 @@
 <a href="https://fb.com/theprasoonsoni" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/733/733547.svg?token=exp=1618320634~hmac=253f6125817961b722962066f34de634" alt="theprasoonsoni" height="30" width="40" /></a>
 <a href="https://instagram.com/prasoonsoni" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1618320671~hmac=7e24e5a00470a0f125c5a671a142f6f2" alt="prasoonsoni" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/prasoonsoni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="prasoonsoni" height="30" width="40" /></a>
+<a href="https://api.whatsapp.com/send?phone=919414547509" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/733/733585.svg?token=exp=1618321895~hmac=c13c733c9b3decccd50e2fe378c5219a" alt="prasoonsoni" height="30" width="40" /></a>
+<a href="https://t.me/prasoonsoni" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111646.svg?token=exp=1618322065~hmac=ed8be759552a62c0bf1ec7be8a2a8dce" alt="prasoonsoni" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
