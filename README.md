@@ -17,10 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/prasoonsoni_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="prasoonsoni_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prasoonsoni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="prasoonsoni" height="30" width="40" /></a>
-<a href="https://fb.com/theprasoonsoni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="theprasoonsoni" height="30" width="40" /></a>
-<a href="https://instagram.com/prasoonsoni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="prasoonsoni" height="30" width="40" /></a>
+<a href="https://twitter.com/prasoonsoni_" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/733/733579.svg?token=exp=1618320406~hmac=cd07a8186490ff3a38682bd668103839" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prasoonsoni" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1618320580~hmac=b43a48369cf63162befdbad3a1fef88c" alt="prasoonsoni" height="30" width="40" /></a>
+<a href="https://fb.com/theprasoonsoni" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/733/733547.svg?token=exp=1618320634~hmac=253f6125817961b722962066f34de634" alt="theprasoonsoni" height="30" width="40" /></a>
+<a href="https://instagram.com/prasoonsoni" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1618320671~hmac=7e24e5a00470a0f125c5a671a142f6f2" alt="prasoonsoni" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/prasoonsoni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="prasoonsoni" height="30" width="40" /></a>
 </p>
 
