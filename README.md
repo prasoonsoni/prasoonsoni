@@ -33,10 +33,10 @@
 
 <h3 align="left">GitHub Stats 📈</h3>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=prasoonsoni&show_icons=true&locale=en&theme=cobalt" alt="prasoonsoni" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=prasoonsoni&show_icons=true&locale=en&theme=gradient" alt="prasoonsoni" /></p>
 
 <h3 align="left">Languages Used 💻</h3>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=prasoonsoni&show_icons=true&locale=en&layout=compact&theme=cobalt"alt="prasoonsoni" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=prasoonsoni&show_icons=true&locale=en&layout=compact&theme=gradient"alt="prasoonsoni" /></p>
 
 
