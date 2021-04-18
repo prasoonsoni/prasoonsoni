@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Android App Developer 📱 from India.</h3>
 
 <h3 align="left">Something about me 👨‍💻</h3>
+
 - 🔭 I’m currently working on **New Projects.**
 - 🌱 I’m currently learning **Android App Development and Frontend Web Development.**
 - 👯 I’m looking to collaborate on **New Ideas.**
@@ -9,6 +10,7 @@
 - 💬 Ask me anything about **my domain, Happy to help.**
 - 📫 How to reach me:  **<a id="raw-url" href="https://linkedin.com/in/prasoonsoni">LinkedIn</a>**
 - ⚡ Fun fact **I love playing Badminton, Dance and Listening to Music.**
+
 
 <h3 align="left">Connect with me 📨</h3>
 <p>
