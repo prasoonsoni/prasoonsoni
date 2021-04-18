@@ -9,7 +9,7 @@
 - 📫 How to reach me:  **<a id="raw-url" href="https://linkedin.com/in/prasoonsoni">LinkedIn</a>**
 - ⚡ Fun fact **I love playing Badminton, Dance and Listening to Music.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me📨</h3>
 <p>
 <a href="https://twitter.com/prasoonsoni_" target="blank"><img  src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://linkedin.com/in/prasoonsoni" target="blank"><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="prasoonsoni"/></a>
