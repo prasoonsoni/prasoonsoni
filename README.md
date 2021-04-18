@@ -31,7 +31,11 @@
 <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/> </a> </p>
 
+<h3 align="left">GitHub Stats 📈</h3>
+
 <p><img src="https://github-readme-stats.vercel.app/api?username=prasoonsoni&show_icons=true&locale=en&theme=cobalt" alt="prasoonsoni" /></p>
+
+<h3 align="left">Languages Used 💻</h3>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=prasoonsoni&show_icons=true&locale=en&layout=compact&theme=cobalt"alt="prasoonsoni" /></p>
 
