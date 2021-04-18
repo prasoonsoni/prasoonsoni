@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prasoon Soni</h1>
-<h3 align="center">A passionate Android App Developer from India.</h3>
+<h3 align="center">A passionate Android App Developer 📱 from India.</h3>
 
+<h3 align="left">Something about me 👨‍💻</h3>
 - 🔭 I’m currently working on **New Projects.**
 - 🌱 I’m currently learning **Android App Development and Frontend Web Development.**
 - 👯 I’m looking to collaborate on **New Ideas.**
@@ -19,7 +20,7 @@
 <a href="https://t.me/prasoonsoni" target="blank"><img  src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="prasoonsoni"/></a>
 </p>
 
-<h3 align="left">Languages and Tools 📌</h3>
+<h3 align="left">Languages and Tools 🚀</h3>
 <p align="left"> 
 <a href="https://developer.android.com" target="_blank"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/> </a> 
