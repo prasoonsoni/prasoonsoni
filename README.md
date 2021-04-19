@@ -1,6 +1,6 @@
 <h1 align="center">नमस्ते (Namaste) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Prasoon Soni!</h1>
 <h3 align="center">A passionate Android App Developer 📱 from India.</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-prasoonsoni&color=blue&style=plastic" alt="prasoonsoni" /> </p>
 <h3 align="left">Something about me 👨‍💻</h3>
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" align="right">
 
@@ -44,5 +44,3 @@
 <h3 align="left">Languages Used 💻</h3>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=prasoonsoni&show_icons=true&locale=en&layout=compact&theme=dracula"alt="prasoonsoni" /></p>
-
-
