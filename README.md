@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Android App Developer 📱 from India.</h3>
 
 <h3 align="left">Something about me 👨‍💻</h3>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" align="right">
 
 - 🔭 I’m currently working on **New Projects.**
 - 🌱 I’m currently learning **Android App Development and Frontend Web Development.**
