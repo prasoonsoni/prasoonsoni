@@ -4,7 +4,7 @@
 <h3 align="left">Something about me 👨‍💻</h3>
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" align="right"> 
 
-- 🎓 Pursuing B.Tech. in Computer Science Engineering **Vellore Institute of Technology, Vellore.**
+- 🎓 Pursuing B.Tech. in Computer Science Engineering from **Vellore Institute of Technology, Vellore.**
 - 🔭 I’m currently working on **New Projects.**
 - 🌱 I’m currently learning **Android App Development and Frontend Web Development.**
 - 👯 I’m looking to collaborate on **New Ideas.**
