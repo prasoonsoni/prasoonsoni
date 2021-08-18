@@ -46,5 +46,14 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=prasoonsoni&show_icons=true&locale=en&layout=compact&theme=dracula"alt="prasoonsoni" /></p>
 
+<h3 align="left">GitHub Trophies 🏆</h3>
+  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasoonsoni" alt="prasoonsoni" /></a> </p>
+  
+<h3 align="left">Streak ️‍🔥</h3>
+  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prasoonsoni&" alt="prasoonsoni" /></p>
+
+
 :pushpin: Liked this introduction? You can also make similar for yourself. Star⭐ and Fork this **[README](https://github.com/prasoonsoni/prasoonsoni)** :pencil:
 
