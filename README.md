@@ -1,11 +1,11 @@
 <h1 align="center">नमस्ते (Namaste) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Prasoon Soni!</h1>
-<h3 align="center">A passionate Android App Developer 📱 from India.</h3>
+<h3 align="center">A passionate Android App Developer📱. </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-prasoonsoni&color=blue&style=plastic" alt="prasoonsoni" /> </p>
 <h3 align="left">Something about me 👨‍💻</h3>
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" align="right"> 
 
 - 🎓 Pursuing B.Tech. in Computer Science Engineering from **Vellore Institute of Technology, Vellore.**
-- 🔭 I’m currently working on **New Projects.**
+- 🔭 I’m currently working on **New Projects and doing Competitive Programming**
 - 🌱 I’m currently learning **Android App Development and Frontend Web Development.**
 - 👯 I’m looking to collaborate on **New Ideas.**
 - 👨‍💻 All of my projects are available **<a id="raw-url" href="https://github.com/PrasoonSoni">Here</a>**
