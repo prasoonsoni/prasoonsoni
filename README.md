@@ -1,5 +1,7 @@
 <h1 align="center">नमस्ते (Namaste) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Prasoon Soni!</h1>
-<h3 align="center">A passionate Android App Developer📱. </h3>
+<p align="center">
+  <a href="https://prasoonsoni.tech/"><img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&color=%2336BCF7&center=true&vCenter=true&lines=Computer+Science+Student;Tech+Enthusiast;Android+App+Developer;Frontend+Web+Developer"></a>
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-prasoonsoni&color=blue&style=plastic" alt="prasoonsoni" /> </p>
 <h3 align="left">Something about me 👨‍💻</h3>
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" align="right"> 
