@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer || App Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-prasoonsoni&color=blue&style=plastic" alt="prasoonsoni" /> </p>
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="450" align="right"> 
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="430" align="right"> 
 
 - 🎓 Pursuing B.Tech. in Computer Science Engineering from **Vellore Institute of Technology, Vellore.**
 - 🔭 I’m currently working on **creating projects and doing competitive coding.**
