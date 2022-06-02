@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Prasoon Soni 👨🏻‍💻</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px">, I'm Prasoon Soni 👨🏻‍💻</h1>
 <h3 align="center">Full Stack Developer || App Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-prasoonsoni&color=blue&style=plastic" alt="prasoonsoni" /> </p>
@@ -13,7 +13,7 @@
 - 💬 Ask me about **my domains, Happy to Help!!**
 - 📫 How to reach me **[Mail Here](mailto:prasoonsoni.work@gmail.com)**
 - ⚡ Fun fact : **I love playing Badminton, Basketball, Dance and Listen to Music.**
-- 👨‍💻 Visit : **<a id="raw-url" href="https://prasoonsoni.tech">prasoonsoni.tech</a>**
+- 👨‍💻 Visit : **<a id="raw-url" href="https://prasoon.codes">prasoon.codes</a>**
 
 <h3 align="left">Connect with me 📨</h3>
 <p align="left">
