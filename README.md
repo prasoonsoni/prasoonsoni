@@ -5,7 +5,7 @@
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="430" align="right"> 
 
 - 🎓 Pursuing B.Tech. in Computer Science Engineering from **Vellore Institute of Technology, Vellore.**
-- 🔭 I’m currently working on **creating projects and doing competitive coding.**
+- 🔭 I’m currently working on **Social Media Backend.**
 - 🌱 I’m currently learning **MERN Stack Development.**
 - 👯 I’m looking to collaborate on **new ideas.**
 - 🤝 I’m looking for help with **resources to learn DevOps.**
