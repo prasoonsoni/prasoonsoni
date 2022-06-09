@@ -2,6 +2,13 @@
 <h3 align="center">Full Stack Web Developer 🌐 | Android App Developer 📱 | Coder 💻</h3>
 
 
+<div align="center">
+  <img src='https://komarev.com/ghpvc/?username=your-github-prasoonsoni&color=blue&style=for-the-badge&label=👀 Profile Visits' />
+  <img src='https://img.shields.io/github/followers/prasoonsoni?label=Followers&logo=github&style=for-the-badge&color=green' />
+  <img src='https://img.shields.io/github/stars/prasoonsoni?label=%E2%AD%90%20GitHub%20stars&style=for-the-badge&color=pink' />
+</div>
+
+
 ## 💫 About Me :
 - 🎓 Pursuing B.Tech. in Computer Science Engineering from **Vellore Institute of Technology, Vellore.**
 - 🔭 I’m currently working on **Social Media Backend.**
@@ -43,9 +50,6 @@
 
 ## ✍️ Random Dev Quote :
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-
-![](https://komarev.com/ghpvc/?username=your-github-prasoonsoni&color=blue&style=for-the-badge)
 
 
 :pushpin: Liked this introduction? You can also make similar for yourself. Star⭐ and Fork this **[README](https://github.com/prasoonsoni/prasoonsoni)** :pencil:
