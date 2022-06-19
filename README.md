@@ -74,9 +74,18 @@
 
 
 ## 📊 GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=prasoonsoni&theme=react&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=prasoonsoni&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prasoonsoni&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact&hide=jupyter%20notebook)
+<div>
+<img width="34%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=prasoonsoni&theme=shades-of-purple&custom_title=GitHub+Stats&hide_border=true"/>
+<img width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasoonsoni&theme=shades-of-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact&hide=jupyter%20notebook" />
+<img width="34%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=prasoonsoni&theme=shades-of-purple&hide_border=true"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
+<img width="97%" src="https://activity-graph.herokuapp.com/graph?username=prasoonsoni&theme=react&custom_title=My%20Contributions%20Graph%20is%20like%20a%20Rollercoster%20Ride&bg_color=3333cc&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 
 ## 🏆 GitHub Trophies :
@@ -87,5 +96,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
-:pushpin: Liked this introduction? You can also make similar for yourself. Star⭐ and Fork this **[README](https://github.com/prasoonsoni/prasoonsoni)** :pencil:
+:pushpin: Liked this introduction? You can also make similar for yourself. Star ⭐ and Fork this **[README](https://github.com/prasoonsoni/prasoonsoni)** :pencil:
 
