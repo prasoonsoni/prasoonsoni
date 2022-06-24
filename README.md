@@ -75,10 +75,10 @@
 
 ## 📊 GitHub Stats :
 <div>
-<img width="40%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=prasoonsoni&theme=shades-of-purple&custom_title=GitHub+Stats&hide_border=true"/>
+<img width="45%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=prasoonsoni&theme=shades-of-purple&custom_title=GitHub+Stats&hide_border=true"/>
 <br>
-<img width="40%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=prasoonsoni&theme=shades-of-purple&hide_border=true"/><br>
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasoonsoni&theme=shades-of-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact&hide=jupyter%20notebook" />
+<img width="45%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=prasoonsoni&theme=shades-of-purple&hide_border=true"/><br>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasoonsoni&theme=shades-of-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact&hide=jupyter%20notebook" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
