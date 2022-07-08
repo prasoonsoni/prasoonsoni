@@ -1,3 +1,6 @@
+<div align="center">
+  <img height ="200px" src="https://user-images.githubusercontent.com/75159757/178034105-04a9b7ba-b9a3-455a-bb7d-8ad05acb4c20.gif" />
+</div>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px">, I'm <a href='https://prasoon.codes' target='_blank'>Prasoon Soni</a> 👨🏻‍💻</h1>
 <h3 align="center">Full Stack Web Developer 🌐 | Android App Developer 📱 | Coder 💻</h3>
 
