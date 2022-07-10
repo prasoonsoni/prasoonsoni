@@ -2,7 +2,7 @@
   <img height ="200px" src="https://user-images.githubusercontent.com/75159757/178040612-2e299ced-ff5c-4999-8d45-5fbc0c9325be.gif" />
 </div>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px">, I'm <a href='https://prasoon.codes' target='_blank'>Prasoon Soni</a> 👨🏻‍💻</h1>
-<h3 align="center">Full Stack Web Developer 🌐 | Android App Developer 📱 | Coder 💻</h3>
+<h3 align="center">Full Stack Web Developer 🌐 || Android App Developer 📱 || Coder 💻</h3>
 
 
 <div align="center">
