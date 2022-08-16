@@ -14,7 +14,7 @@
 
 ## 💫 About Me :
 - 🎓 Pursuing B.Tech. in Computer Science Engineering from **[Vellore Institute of Technology, Vellore](https://vit.ac.in/).**
-- 🔭 I’m currently working on **Social Media Backend.**
+- 🔭 I’m currently working on **Project for Smart India Hackathon.**
 - 🌱 I’m currently learning **MERN Stack Development.**
 - 👯 I’m looking to collaborate on **new ideas.**
 - 🤝 I’m looking for help with **resources to learn DevOps.**
