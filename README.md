@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning **MERN Stack Development.**
 - 👯 I’m looking to collaborate on **new ideas.**
 - 🤝 I’m looking for help with **resources to learn DevOps.**
-- 👨‍💻 All of my projects are available [here](https://github.com/prasoonsoni)
+- 👨‍💻 All of my projects are available **[here](https://github.com/prasoonsoni)**
 - 💬 Ask me about **my domains, Happy to Help!!**
 - 📫 How to reach me **[Mail Here](mailto:prasoonsoni.work@gmail.com)**
 - ⚡ Fun fact : **I love playing Badminton, Basketball, Dance and Listen to Music.**
