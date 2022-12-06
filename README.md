@@ -1,103 +1,44 @@
-<div align="center">
-  <img height ="200px" src="https://user-images.githubusercontent.com/75159757/178040612-2e299ced-ff5c-4999-8d45-5fbc0c9325be.gif" />
-</div>
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px">, I'm <a href='https://prasoon.codes' target='_blank'>Prasoon Soni</a> 👨🏻‍💻</h1>
-<h3 align="center">Full Stack Web Developer 🌐 || Android App Developer 📱 || Coder 💻</h3>
+
+<h1 >Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px">, I'm <a href='https://prasoon.codes' target='_blank'>Prasoon Soni</a> <img height ="50px" src="https://user-images.githubusercontent.com/75159757/178040612-2e299ced-ff5c-4999-8d45-5fbc0c9325be.gif" /></h1>
+
+I'm a **developer** with a demonstrated ability to deliver solutions to real-world problems. I'm skilled in **Full Stack Web Development** and **Android App Development**. I like learning new things I'm enthusiastic and a curious person. I mainly code in **JavaScript**, **Java** & **C++**. I'm intrested in expanding my knowledge in fields of **Machine Learning**, **Artificial Intelligence**, **Blockchain**, **Game Technology**. I'm a fast learner, actively engaged in learning multiple domains. I love to take part in **Hackathons** and win them. I'm open to collaborate on projects and be the part of communities that empower individuals to learn technology. If you have any doubts or want to discuss regarding hackathons, projects or anything regarding my domain I'll be very happy to help you out.
+
+👇 Hit in your console or terminal to connect with me.
+```bash
+npx prasoon
+```
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/prasoonsoni_?label=Follow)](https://twitter.com/prasoonsoni_)
+[![Linkedin: prasoon](https://img.shields.io/badge/-prasoonsoni-blue?style=badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prasoonsoni/)](https://www.linkedin.com/in/prasoonsoni/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=badge&logo=instagram&logoColor=white)](https://instagram.com/prasoonsoni)
+[![GitHub Follow](https://img.shields.io/github/followers/prasoonsoni?label=Follow&style=social)](https://github.com/prasoonsoni)
+[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=badge&logo=LeetCode&logoColor=black)](https://leetcode.com/prasoonsoni/)
+[![Codechef](https://img.shields.io/badge/-CodeChef-5B4638?style=badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/prasoonsoni)
+[![website](https://img.shields.io/badge/Portfolio-46a2f1.svg?&style=badge&logo=Google-Chrome&logoColor=white&link=https://prasoon.codes)](https://prasoon.codes/)
+![Visitors](https://komarev.com/ghpvc/?username=your-github-prasoonsoni&color=blue&style=badge&label=Visitors)
 
 
-<div align="center">
-  <img src='https://komarev.com/ghpvc/?username=your-github-prasoonsoni&color=blue&style=for-the-badge&label=👀 Profile Visits' />
-  <img src='https://img.shields.io/github/followers/prasoonsoni?label=Followers&logo=github&style=for-the-badge&color=green' />
-  <img src='https://img.shields.io/github/stars/prasoonsoni?label=%E2%AD%90%20GitHub%20stars&style=for-the-badge&color=pink' />
-</div>
-
-
-## 💫 About Me :
-- 🎓 Pursuing B.Tech. in Computer Science Engineering from **[Vellore Institute of Technology, Vellore](https://vit.ac.in/).**
-- 🔭 I’m currently working on **Learning DSA**
-- 🌱 I’m currently learning **MERN Stack Development.**
-- 👯 I’m looking to collaborate on **new ideas.**
+- 🎓 Pursuing **B.Tech.** in **Computer Science Engineering** from **[Vellore Institute of Technology, Vellore](https://vit.ac.in/).**
+- 🔭 I’m currently working as **Full Stack Developer**
+- 🌱 I’m currently learning **Data Structures & Algorithms**
+- 👯 I’m looking to collaborate on **new projects.**
 - 🤝 I’m looking for help with **resources to learn DevOps.**
 - 👨‍💻 All of my projects are available **[here](https://github.com/prasoonsoni)**
-- 💬 Ask me about **my domains, Happy to Help!!**
 - 📫 How to reach me **[Mail Here](mailto:prasoonsoni.work@gmail.com)**
-- ⚡ Fun fact : **I love playing Badminton, Basketball, Dance and Listen to Music.**
-- 👨‍💻 Visit : **<a id="raw-url" href="https://prasoon.codes">prasoon.codes</a>**
-
-
-## 🌐 Connect With Me :
-<p align="left">
-<a href="https://dev.to/prasoonsoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="prasoonsoni" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prasoonsoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasoonsoni" height="30" width="40" /></a>
-<a href="https://fb.com/theprasoonsoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="theprasoonsoni" height="30" width="40" /></a>
-<a href="https://instagram.com/prasoonsoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prasoonsoni" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/prasoonsoni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prasoonsoni" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/prasoonsoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prasoonsoni" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prasoonsoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prasoonsoni" height="30" width="40" /></a>
-</p>
-
-
-## 💻 Tech Stack :
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) 
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-
-## 📊 GitHub Stats :
-<div>
-<img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=prasoonsoni&theme=shades-of-purple&custom_title=GitHub+Stats&hide_border=true"/>
-<img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=prasoonsoni&theme=shades-of-purple&hide_border=true"/>
-<p align = "center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasoonsoni&theme=shades-of-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact&hide=jupyter%20notebook" />
-</p>
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<img width="97%" src="https://activity-graph.herokuapp.com/graph?username=prasoonsoni&theme=react&custom_title=My%20Contributions%20Graph%20is%20like%20a%20Rollercoster%20Ride&bg_color=3333cc&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" />
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
-## 🏆 GitHub Trophies :
-![](https://github-profile-trophy.vercel.app/?username=prasoonsoni&theme=discord&no-frame=true&no-bg=true&margin-w=4)
+## Skills :
+- 👨‍💻 C/C++, Python, Java, JavaScript, PHP, SQL
+- 🌐 HTML/CSS, React.js, Node.js, Express.js
+- 📱 Android Studio, MVVM Architecture, Room Database, Volley, SQLite
+- 🛠️ Git, GitHub, MongoDB, Firebase, MySQL, REST APIs, Figma, Postman
 
+<!-- ## 📊 GitHub Stats : -->
 
-## ✍️ Random Dev Quote :
+<!-- ## ✍️ Random Dev Quote :
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
+ -->
 
 :pushpin: Liked this introduction? You can also make similar for yourself. Star ⭐ and Fork this **[README](https://github.com/prasoonsoni/prasoonsoni)** :pencil:
 
