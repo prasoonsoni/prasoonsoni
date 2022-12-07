@@ -28,17 +28,13 @@ npx prasoon
 
 
 
-## Skills :
+## Skills💡
 - 👨‍💻 C/C++, Python, Java, JavaScript, PHP, SQL
 - 🌐 HTML/CSS, React.js, Node.js, Express.js
 - 📱 Android Studio, MVVM Architecture, Room Database, Volley, SQLite
 - 🛠️ Git, GitHub, MongoDB, Firebase, MySQL, REST APIs, Figma, Postman
 
-<!-- ## 📊 GitHub Stats : -->
-
-<!-- ## ✍️ Random Dev Quote :
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
- -->
+## GitHub Stats 📊
 [![GitHub Stats](https://www.githubstats.prasoon.codes/images/github.png)](https://prasoon.codes)
 :pushpin: Liked this introduction? You can also make similar for yourself. Star ⭐ and Fork this **[README](https://github.com/prasoonsoni/prasoonsoni)** :pencil:
 
