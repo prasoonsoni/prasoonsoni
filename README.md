@@ -9,9 +9,9 @@ npx prasoon
 ```
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/prasoonsoni_?label=Follow)](https://twitter.com/prasoonsoni_)
+[![GitHub Follow](https://img.shields.io/github/followers/prasoonsoni?label=Follow&style=social)](https://github.com/prasoonsoni)
 [![Linkedin: prasoon](https://img.shields.io/badge/-prasoonsoni-blue?style=badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prasoonsoni/)](https://www.linkedin.com/in/prasoonsoni/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=badge&logo=instagram&logoColor=white)](https://instagram.com/prasoonsoni)
-[![GitHub Follow](https://img.shields.io/github/followers/prasoonsoni?label=Follow&style=social)](https://github.com/prasoonsoni)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=badge&logo=LeetCode&logoColor=black)](https://leetcode.com/prasoonsoni/)
 [![Codechef](https://img.shields.io/badge/-CodeChef-5B4638?style=badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/prasoonsoni)
 [![website](https://img.shields.io/badge/Portfolio-46a2f1.svg?&style=badge&logo=Google-Chrome&logoColor=white&link=https://prasoon.codes)](https://prasoon.codes/)
