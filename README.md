@@ -39,6 +39,6 @@ npx prasoon
 <!-- ## ✍️ Random Dev Quote :
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
  -->
-
+[![GitHub Stats](https://www.githubstats.prasoon.codes/images/github.png)](https://prasoon.codes)
 :pushpin: Liked this introduction? You can also make similar for yourself. Star ⭐ and Fork this **[README](https://github.com/prasoonsoni/prasoonsoni)** :pencil:
 
