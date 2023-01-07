@@ -13,8 +13,9 @@ npx prasoon
 [![Linkedin: prasoon](https://img.shields.io/badge/-prasoonsoni-blue?style=badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prasoonsoni/)](https://www.linkedin.com/in/prasoonsoni/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=badge&logo=instagram&logoColor=white)](https://instagram.com/prasoonsoni)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=badge&logo=LeetCode&logoColor=black)](https://leetcode.com/prasoonsoni/)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/prasoonsoni/)
 [![Codechef](https://img.shields.io/badge/-CodeChef-5B4638?style=badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/prasoonsoni)
-[![website](https://img.shields.io/badge/Portfolio-46a2f1.svg?&style=badge&logo=Google-Chrome&logoColor=white&link=https://prasoon.codes)](https://prasoon.codes/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=badge&logo=About.me&logoColor=white)](https://prasoon.codes/)
 ![Visitors](https://komarev.com/ghpvc/?username=your-github-prasoonsoni&color=blue&style=badge&label=Visitors)
 
 
