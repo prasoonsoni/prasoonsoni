@@ -36,6 +36,7 @@ npx prasoon
 - 🛠️ Git, GitHub, MongoDB, Firebase, MySQL, REST APIs, Figma, Postman
 
 ## GitHub Stats 📊
-[![GitHub Stats](https://www.githubstats.prasoon.codes/images/github.png)](https://prasoon.codes)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prasoonsoni&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 :pushpin: Liked this introduction? You can also make similar for yourself. Star ⭐ and Fork this **[README](https://github.com/prasoonsoni/prasoonsoni)** :pencil:
 
