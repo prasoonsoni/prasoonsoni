@@ -27,16 +27,23 @@ npx prasoon
 - 👨‍💻 All of my projects are available **[here](https://github.com/prasoonsoni)**
 - 📫 How to reach me **[Mail Here](mailto:prasoonsoni.work@gmail.com)**
 
+<hr/>
 
-
-## Skills💡
-- 👨‍💻 C/C++, Python, Java, JavaScript, PHP, SQL
-- 🌐 HTML/CSS, React.js, Node.js, Express.js
-- 📱 Android Studio, MVVM Architecture, Room Database, Volley, SQLite
-- 🛠️ Git, GitHub, MongoDB, Firebase, MySQL, REST APIs, Figma, Postman
-
-## GitHub Stats 📊
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prasoonsoni&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<details>
+  <summary><b>💡Skills</b></summary>
+  <br>
+  
+  - 👨‍💻 C/C++, Python, Java, JavaScript, PHP, SQL
+  - 🌐 HTML/CSS, React.js, Node.js, Express.js
+  - 📱 Android Studio, MVVM Architecture, Room Database, Volley, SQLite
+  - 🛠️ Git, GitHub, MongoDB, Firebase, MySQL, REST APIs, Figma, Postman
+</details>
+<details>
+  <summary><b>📊 GitHub Stats</b></summary>
+  <br>
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prasoonsoni&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+</details>
 
 :pushpin: Liked this introduction? You can also make similar for yourself. Star ⭐ and Fork this **[README](https://github.com/prasoonsoni/prasoonsoni)** :pencil:
 
