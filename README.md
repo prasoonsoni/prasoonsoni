@@ -33,10 +33,10 @@ npx prasoon
   <summary><b>💡Skills</b></summary>
   <br>
   
-  - 👨‍💻 C/C++, Python, Java, JavaScript, PHP, SQL
-  - 🌐 HTML/CSS, React.js, Node.js, Express.js
-  - 📱 Android Studio, MVVM Architecture, Room Database, Volley, SQLite
-  - 🛠️ Git, GitHub, MongoDB, Firebase, MySQL, REST APIs, Figma, Postman
+  - 👨‍💻 **Programming Languages** - Java, C/C++, Python, JavaScript, PHP, SQL, Bash
+  - 🚀 **Technologies/Frameworks** - React.js, Node.js, Express.js, MongoDB, Firebase, Chakra UI, MySQL, Bootstrap, Tailwind CSS, Material UI
+  - 🛠️ **Developer Tools** - Git, Android Studio, Postman, Anaconda, Docker
+  - 🌐 **Platforms** - Linux, Web, Windows, Arduino
 </details>
 <details>
   <summary><b>📊 GitHub Stats</b></summary>
