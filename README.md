@@ -81,5 +81,8 @@ npx prasoon
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prasoonsoni&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </details>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 :pushpin: Liked this introduction? You can also make similar for yourself. Star ⭐ and Fork this **[README](https://github.com/prasoonsoni/prasoonsoni)** :pencil:
 
