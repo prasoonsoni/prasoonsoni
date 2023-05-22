@@ -81,6 +81,9 @@ npx prasoon
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prasoonsoni&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </details>
 
+<hr/>
+
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-387%20hrs%2057%20mins-blue)
 
