@@ -81,10 +81,11 @@ npx prasoon
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prasoonsoni&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </details>
 
-<hr/>
-
-
-<!--START_SECTION:waka-->
+<details>
+  <summary><b>👨‍💻 Programming Stats</b></summary>
+  <br>
+  
+  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-410%20hrs%2044%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.5%20million%20lines%20of%20code-blue)
@@ -155,6 +156,12 @@ Jupyter Notebook         3 repos             █░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+</details>
+
+<hr/>
+
+
+
 
 :pushpin: Liked this introduction? You can also make similar for yourself. Star ⭐ and Fork this **[README](https://github.com/prasoonsoni/prasoonsoni)** :pencil:
 
