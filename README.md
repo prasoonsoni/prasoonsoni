@@ -1,5 +1,5 @@
 
-<h1 >Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px">, I'm <a href='https://prasoonsoni.com' target='_blank'>Prasoon Soni</a> <img height ="50px" src="https://user-images.githubusercontent.com/75159757/178040612-2e299ced-ff5c-4999-8d45-5fbc0c9325be.gif" /></h1>
+<h1 >Hi, I'm <a href='https://prasoonsoni.com' target='_blank'>Prasoon Soni</a> <img height ="50px" src="https://user-images.githubusercontent.com/75159757/178040612-2e299ced-ff5c-4999-8d45-5fbc0c9325be.gif" /></h1>
 
 I'm a **developer** with a demonstrated ability to deliver solutions to real-world problems. I'm skilled in **Full Stack Web Development** and **Android App Development**. I like learning new things I'm enthusiastic and a curious person. I mainly code in **JavaScript**, **Java** & **C++**. I'm intrested in expanding my knowledge in fields of **Machine Learning**, **Artificial Intelligence**, **Blockchain**, **Game Technology**. I'm a fast learner, actively engaged in learning multiple domains. I love to take part in **Hackathons** and win them. I'm open to collaborate on projects and be the part of communities that empower individuals to learn technology. If you have any doubts or want to discuss regarding hackathons, projects or anything regarding my domain I'll be very happy to help you out.
 
@@ -36,10 +36,11 @@ npx prasoon
   ### 👨‍💻 **Programming Languages**
   
   ![Java](https://img.shields.io/badge/Java-F0931C?style=badge&logo=java&logoColor=F7DF1E)
-  ![C/C++](https://img.shields.io/badge/C-00599C?style=badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=badge&logo=c%2B%2B&logoColor=white)
+  ![C/C++](https://img.shields.io/badge/C-00599C?style=badge&logo=c&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-FFD43B?style=badge&logo=python&logoColor=blue)
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=badge&logo=javascript&logoColor=F7DF1E)
+  ![GoLang](https://img.shields.io/badge/Go-00ADD8?style=badge&logo=go&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=badge&logo=php&logoColor=white)
   ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=badge&logo=gnu-bash&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=badge&logo=typescript&logoColor=white)
